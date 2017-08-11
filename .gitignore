@@ -1,1 +1,4 @@
+.bundle/
 modules/
+vendor/
+Gemfile.lock
